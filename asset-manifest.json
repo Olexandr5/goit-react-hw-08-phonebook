@@ -1,13 +1,15 @@
 {
   "files": {
-    "main.css": "/react-homework-template/static/css/main.7acaea2f.css",
-    "main.js": "/react-homework-template/static/js/main.07d3183d.js",
-    "index.html": "/react-homework-template/index.html",
-    "main.7acaea2f.css.map": "/react-homework-template/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/react-homework-template/static/js/main.07d3183d.js.map"
+    "main.css": "/goit-react-hw-08-phonebook/static/css/main.720e9ece.css",
+    "main.js": "/goit-react-hw-08-phonebook/static/js/main.9713182b.js",
+    "static/media/pexels-fauxels-3183198.jpg": "/goit-react-hw-08-phonebook/static/media/pexels-fauxels-3183198.2fc16a1c811c7bd63441.jpg",
+    "static/media/Avatar-Profile-Vector-PNG-Pic.png": "/goit-react-hw-08-phonebook/static/media/Avatar-Profile-Vector-PNG-Pic.12e634acbe2711db4637.png",
+    "index.html": "/goit-react-hw-08-phonebook/index.html",
+    "main.720e9ece.css.map": "/goit-react-hw-08-phonebook/static/css/main.720e9ece.css.map",
+    "main.9713182b.js.map": "/goit-react-hw-08-phonebook/static/js/main.9713182b.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.720e9ece.css",
+    "static/js/main.9713182b.js"
   ]
 }
